@@ -1,0 +1,2 @@
+# JAVASCF
+javaScript common function
